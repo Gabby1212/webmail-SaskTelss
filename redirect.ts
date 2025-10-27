@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://indd.adobe.com/view/08ef235c-ff07-47f9-a982-49b1bf22550e"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://indd.adobe.com/view/68335e6b-4207-4ebd-804d-2070017eed97"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
